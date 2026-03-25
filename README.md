@@ -5,6 +5,7 @@ Full-stack Developer
 --------------------
 
 * 🌍  I'm based in Davao Oriental, Philippines
+* 🖥️  See my portfolio at [MyPortfolio](https://gemar-s-dev-portfolio.vercel.app/)
 * ✉️  You can contact me at [gemar.petereB@gmail.com](mailto:gemar.petereB@gmail.com)
 * 🚀  I'm currently working on [Farm to Market App](http://farm-to-market-admin.vercel.app/)
 * 🧠  I'm currently learning DevOps
